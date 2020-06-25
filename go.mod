@@ -1,4 +1,4 @@
-module github.com/cyruzin/golang-tmdb
+module github.com/johndunne/golang-tmdb
 
 go 1.13
 
